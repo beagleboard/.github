@@ -1,5 +1,6 @@
 ## BeagleBoard.org Foundation on Github
 
+[![](https://img.shields.io/discord/1108795636956024986?color=5865F2&logo=Discord&style=flat-square)](https://discord.com/invite/e58xECGWfR)
 <!--
 
 **Here are some ideas to get you started:**
