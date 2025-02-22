@@ -1,13 +1,10 @@
-## BeagleBoard.org Foundation on Github
-
-[![](https://img.shields.io/discord/1108795636956024986?color=5865F2&logo=Discord&style=flat-square)](https://discord.com/invite/e58xECGWfR)
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<a href="https://www.beagleboard.org"><img src="https://www.beagleboard.org/app/themes/beagleboard-theme/resources/images/beagleboard-logo.svg" alt="BeagleBoard.org"></a><br>
+<p align="center">          
+<h4 align=center>
+<a href="https://docs.beagleboard.org"><img src="https://docs.beagleboard.org/_images/banner.webp" alt="docs.BeagleBoard.org"></a><br>
+<br><br>
+</h4>
+<p align="center">  Welcome to the BeagleBoard GitHub! If you are looking for Beagle related software you've found the right place! </p>
+<h3 align="center"><a href=https://docs.beagleboard.org/intro/contribution/index.html>How to contribute?</h3></a><br>
+</td>
+</table>
