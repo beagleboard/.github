@@ -72,7 +72,7 @@ Welcome to the BeagleBoard GitHub! If you are looking for Beagle related softwar
 
 .. _Linux: https://github.com/beagleboard/linux
 
-.. _Zephyr: https://github.com/beagleboard/zephyr
+.. _Zephyr: https://docs.zephyrproject.org/latest/boards/index.html#vendor=beagle
 
 .. _Imager: https://github.com/beagleboard/bb-imager-rs
 
