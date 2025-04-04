@@ -38,6 +38,8 @@ Welcome to the BeagleBoard GitHub! If you are looking for Beagle related softwar
 |               +--------------------------------+-------------+-----------------+
 |               | `BeagleBoard`_                 |             |                 |
 +---------------+--------------------------------+-------------+-----------------+
+| BeagleConnect | `BeagleConnect Freedom`_       |             |                 |
++---------------+--------------------------------+-------------+-----------------+
 
 
 .. _BeagleY-AI: https://github.com/beagleboard/beagley-ai
@@ -65,6 +67,8 @@ Welcome to the BeagleBoard GitHub! If you are looking for Beagle related softwar
 .. _BeagleBoard-xM: https://github.com/beagleboard/beagleboard-xm
 
 .. _BeagleBoard: https://github.com/beagleboard/beagleboard
+
+.. _BeagleConnect Freedom: https://github.com/beagleboard/beagleconnect-freedom
 
 .. _Linux: https://github.com/beagleboard/linux
 
