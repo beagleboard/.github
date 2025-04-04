@@ -7,27 +7,27 @@
 
 ## BeagleY
 
-* [BeagleY-AI](/beagleboard/beagley-ai)
+* [BeagleY-AI](https://github.com/beagleboard/beagley-ai)
 
 ## BeagleV
 
-* [BeagleV-Fire](/beagleboard/beaglev-fire)
-* [BeagleV-Ahead](/beagleboard/beaglev-ahead)
+* [BeagleV-Fire](https://github.com/beagleboard/beaglev-fire)
+* [BeagleV-Ahead](https://github.com/beagleboard/beaglev-ahead)
 
 ## PocketBeagle
 
-* [PocketBeagle 2](/beagleboard/pocketbeagle-2)
-* [PocketBeagle](/beagleboard/pocketbeagle)
+* [PocketBeagle 2](https://github.com/beagleboard/pocketbeagle-2)
+* [PocketBeagle](https://github.com/beagleboard/pocketbeagle)
 
 ## BeagleBone
 
-* [BeagleBone AI-64](/beagleboard/beaglebone-ai64)
-* [BeagleBone AI](/beagleboard/beaglebone-ai)
-* [BeagleBone Black](/beagleboard/beaglebone-black)
-* [BeagleBone](/beagleboard/beaglebone)
+* [BeagleBone AI-64](https://github.com/beagleboard/beaglebone-ai64)
+* [BeagleBone AI](https://github.com/beagleboard/beaglebone-ai)
+* [BeagleBone Black](https://github.com/beagleboard/beaglebone-black)
+* [BeagleBone](https://github.com/beagleboard/beaglebone)
 
 ## BeagleBoard
 
-* [BoardBoard-X15](/beagleboard/beagleboard-x15)
-* [BoardBoard-xM](/beagleboard/beagleboard-xm)
-* [BoardBoard](/beagleboard/beagleboard)
+* [BoardBoard-X15](https://github.com/beagleboard/beagleboard-x15)
+* [BoardBoard-xM](https://github.com/beagleboard/beagleboard-xm)
+* [BoardBoard](https://github.com/beagleboard/beagleboard)
