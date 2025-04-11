@@ -14,7 +14,9 @@ Welcome to the BeagleBoard GitHub! If you are looking for Beagle related softwar
 +===============+================================+=============+=================+
 | BeagleY       | `BeagleY-AI`_                  | Operating   | `Linux`_        |
 +---------------+--------------------------------+ Systems     +-----------------+
-| BeagleV       | `BeagleV-Fire`_                |             | `Zephyr`_       |
+| BeaglePlay    | `BeaglePlay`_                  |             | `Zephyr`_       |
++---------------+--------------------------------+             +-----------------+
+| BeagleV       | `BeagleV-Fire`_                |             |                 |
 |               +--------------------------------+-------------+-----------------+
 |               | `BeagleV-Ahead`_               | Utilities   | `Imager`_       |
 +---------------+--------------------------------+-------------+-----------------+
@@ -43,6 +45,8 @@ Welcome to the BeagleBoard GitHub! If you are looking for Beagle related softwar
 
 
 .. _BeagleY-AI: https://github.com/beagleboard/beagley-ai
+
+.. _BeaglePlay: https://github.com/beagleboard/beagleplay
 
 .. _BeagleV-Fire: https://github.com/beagleboard/beaglev-fire
 
