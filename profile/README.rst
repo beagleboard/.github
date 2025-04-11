@@ -11,7 +11,7 @@ BeagleBoard.org is an open-source, community-supported platform for building low
 
 - 📖 **Documentation**: https://docs.beagle.cc
 - 🚀 **Quickstart Guides**: https://docs.beagle.cc/getting-started
-- 🤝 **How to Contribute**: https://docs.beagleboard.org/intro/contribution/index.html
+- 🤝 **How to Contribute**: https://docs.beagle.cc/intro/contribution/index.html
 - 💬 **Community Forum**: https://forum.beagleboard.org
 
 .. raw:: html
@@ -80,4 +80,4 @@ BeagleBoard.org is an open-source, community-supported platform for building low
 .. note::
 
 
-🚧 Have a question or issue with a board or repo? Check the documentation, post on the [BeagleBoard Forum](https://forum.beagleboard.org) or open a discussion or issue — we’re here to help!
+🚧 Have a question or issue with a board or repo? Check the documentation, post on the `BeagleBoard Forum <https://forum.beagleboard.org>`_ or open a discussion or issue — we’re here to help!
