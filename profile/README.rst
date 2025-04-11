@@ -8,10 +8,11 @@ Welcome to the **BeagleBoard.org GitHub** —  If you are looking for Beagle rel
 BeagleBoard.org is an open-source, community-supported platform for building low-power, low-cost, open-hardware computers ideal for education, rapid prototyping, and industrial applications. Our hardware boards span beginner-friendly microcontrollers to powerful multicore processors.
 
 🔗 **Get Started:**
-- 📖 Documentation: https://docs.beagle.cc
-- 🚀 Quickstart Guides: https://docs.beagle.cc/getting-started
-- 🤝 How to Contribute: https://docs.beagleboard.org/intro/contribution/index.html
-- 💬 Community Forum: https://forum.beagleboard.org
+
+- 📖 **Documentation**: https://docs.beagle.cc
+- 🚀 **Quickstart Guides**: https://docs.beagle.cc/getting-started
+- 🤝 **How to Contribute**: https://docs.beagleboard.org/intro/contribution/index.html
+- 💬 **Community Forum**: https://forum.beagleboard.org
 
 .. raw:: html
 
@@ -75,5 +76,8 @@ BeagleBoard.org is an open-source, community-supported platform for building low
        </td>
      </tr>
    </table>
+
+.. note::
+
 
 🚧 Have a question or issue with a board or repo? Check the documentation, post on the [BeagleBoard Forum](https://forum.beagleboard.org) or open a discussion or issue — we’re here to help!
