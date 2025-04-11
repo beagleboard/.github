@@ -9,13 +9,15 @@ Welcome to the BeagleBoard GitHub! If you are looking for Beagle related softwar
 
 .. raw:: html
 
-   <table align="center">
+   <table width="100%">
      <tr>
-       <td valign="top" style="padding-right: 40px;">
-
+       <td width="50%" valign="top" style="padding-right: 20px;">
          <b>Boards</b>
-         <table border="1" cellpadding="6">
-           <tr><th>Family</th><th>Variants</th></tr>
+         <table border="1" cellpadding="6" width="100%">
+           <tr>
+             <th>Family</th>
+             <th>Variants</th>
+           </tr>
            <tr><td>BeagleY</td><td><a href="https://github.com/beagleboard/beagley-ai">BeagleY-AI</a></td></tr>
            <tr><td>BeaglePlay</td><td><a href="https://github.com/beagleboard/beagleplay">BeaglePlay</a></td></tr>
            <tr><td>BeagleV</td><td>
@@ -42,13 +44,14 @@ Welcome to the BeagleBoard GitHub! If you are looking for Beagle related softwar
              <a href="https://github.com/beagleboard/beagleconnect-freedom">Freedom</a>
            </td></tr>
          </table>
-
        </td>
-       <td valign="top">
-
+       <td width="50%" valign="top" style="padding-left: 20px;">
          <b>Software</b>
-         <table border="1" cellpadding="6">
-           <tr><th>Type</th><th>Options</th></tr>
+         <table border="1" cellpadding="6" width="100%">
+           <tr>
+             <th>Type</th>
+             <th>Options</th>
+           </tr>
            <tr><td>Operating Systems</td><td>
              <a href="https://github.com/beagleboard/linux">Linux</a><br>
              <a href="https://docs.zephyrproject.org/latest/boards/index.html#vendor=beagle">Zephyr</a>
@@ -63,7 +66,6 @@ Welcome to the BeagleBoard GitHub! If you are looking for Beagle related softwar
              <a href="https://github.com/beagleboard/vsx-examples">vsx-examples</a>
            </td></tr>
          </table>
-
        </td>
      </tr>
    </table>
