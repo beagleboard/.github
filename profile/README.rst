@@ -3,9 +3,15 @@
 .. image:: https://camo.githubusercontent.com/15f5c9546f08e319b979c46507e8c6c3d19972461a80dce572de9f0219da7c4e/68747470733a2f2f646f63732e626561676c652e63632f5f696d616765732f62616e6e65722e77656270
    :target: https://docs.beagle.cc
 
-Welcome to the BeagleBoard GitHub! If you are looking for Beagle related software you've found the right place!
+Welcome to the **BeagleBoard.org GitHub** —  If you are looking for Beagle related software and hardware repos you've found the right place!
 
-`How to contribute? <https://docs.beagleboard.org/intro/contribution/index.html>`_
+BeagleBoard.org is an open-source, community-supported platform for building low-power, low-cost, open-hardware computers ideal for education, rapid prototyping, and industrial applications. Our hardware boards span beginner-friendly microcontrollers to powerful multicore processors.
+
+🔗 **Get Started:**
+- 📖 Documentation: https://docs.beagle.cc
+- 🚀 Quickstart Guides: https://docs.beagle.cc/getting-started
+- 🤝 How to Contribute: https://docs.beagleboard.org/intro/contribution/index.html
+- 💬 Community Forum: https://forum.beagleboard.org
 
 .. raw:: html
 
@@ -69,3 +75,5 @@ Welcome to the BeagleBoard GitHub! If you are looking for Beagle related softwar
        </td>
      </tr>
    </table>
+
+🚧 Have a question or issue with a board or repo? Check the documentation, post on the [BeagleBoard Forum](https://forum.beagleboard.org) or open a discussion or issue — we’re here to help!
