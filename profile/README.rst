@@ -13,7 +13,6 @@ BeagleBoard.org is an open-source, community-supported platform for building low
 - 🚀 **Quickstart Guides**: https://docs.beagle.cc/getting-started
 - 🤝 **How to Contribute**: https://docs.beagle.cc/intro/contribution/index.html
 - ⁇ **Community Forum**: https://forum.beagleboard.org
-- 🔄 **Feedback on Github content**: https://forum.beagleboard.org/tag/github
 - 💬 **Discord**: https://www.beagleboard.org/discord
 
 .. raw:: html
@@ -83,3 +82,6 @@ BeagleBoard.org is an open-source, community-supported platform for building low
 
 
 🚧 Have a question or issue with a board or repo? Check the documentation, post on the `BeagleBoard Forum <https://forum.beagleboard.org>`_ or open a discussion or issue — we’re here to help!
+
+🔄 `Feedback on Github content <https://forum.beagleboard.org/tag/github>`_
+
