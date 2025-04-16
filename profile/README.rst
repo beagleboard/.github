@@ -26,11 +26,11 @@ BeagleBoard.org is an open-source, community-supported platform for building low
              <th>Family</th>
              <th>Variants</th>
            </tr>
-           <tr><td>BeagleY</td><td><a href="https://github.com/beagleboard/beagley-ai">BeagleY-AI</a></td></tr>
+           <tr><td>BeagleY</td><td><a href="https://github.com/beagleboard/beagley-ai">AI</a></td></tr>
            <tr><td>BeaglePlay</td><td><a href="https://github.com/beagleboard/beagleplay">BeaglePlay</a></td></tr>
            <tr><td>BeagleV</td><td>
-             <a href="https://github.com/beagleboard/beaglev-fire">BeagleV-Fire</a><br>
-             <a href="https://github.com/beagleboard/beaglev-ahead">BeagleV-Ahead</a>
+             <a href="https://github.com/beagleboard/beaglev-fire">Fire</a><br>
+             <a href="https://github.com/beagleboard/beaglev-ahead"Ahead</a>
            </td></tr>
            <tr><td>PocketBeagle</td><td>
              <a href="https://github.com/beagleboard/pocketbeagle-2">PocketBeagle 2</a><br>
