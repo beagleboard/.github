@@ -71,7 +71,10 @@ BeagleBoard.org is an open-source, community-supported platform for building low
              <a href="https://github.com/beagleboard/microblocks-zephyr">Microblocks</a>
            </td></tr>
            <tr><td>Examples</td><td>
-             <a href="https://github.com/beagleboard/vsx-examples">vsx-examples</a>
+             <a href="https://github.com/beagleboard/vsx-examples">Examples in Visual Studio Code</a>
+           </td></tr>
+           <tr><td>Projects</td><td>
+             <a href="https://github.com/beagleboard-gsoc">Google Summer of Code</a>
            </td></tr>
          </table>
        </td>
