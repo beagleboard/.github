@@ -14,6 +14,7 @@ BeagleBoard.org is an open-source, community-supported platform for building low
 - 🤝 **How to Contribute**: https://docs.beagle.cc/intro/contribution/index.html
 - ⁇ **Community Forum**: https://forum.beagleboard.org
 - 💬 **Discord**: https://www.beagleboard.org/discord
+- 💬 **Zulip**: https://zulip.openbeagle.org
 
 .. raw:: html
 
