@@ -37,7 +37,7 @@ BeagleBoard.org is an open-source, community-supported platform for building low
              <a href="https://github.com/beagleboard/pocketbeagle">PocketBeagle</a>
            </td></tr>
            <tr><td>BeagleBone</td><td>
-             <a href="https://github.com/beagleboard/beaglebone-ai64">AI-64</a><br>
+             <a href="https://github.com/beagleboard/beaglebone-ai-64">AI-64</a><br>
              <a href="https://github.com/beagleboard/beaglebone-ai">AI</a><br>
              <a href="https://github.com/beagleboard/beaglebone-black-wireless">Black Wireless</a><br>
              <a href="https://github.com/beagleboard/beaglebone-black">Black</a><br>
