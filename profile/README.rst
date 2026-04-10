@@ -1,6 +1,6 @@
 .. image:: https://www.beagleboard.org/app/themes/beagleboard-theme/resources/images/beagleboard-logo.svg
 
-.. image:: https://camo.githubusercontent.com/15f5c9546f08e319b979c46507e8c6c3d19972461a80dce572de9f0219da7c4e/68747470733a2f2f646f63732e626561676c652e63632f5f696d616765732f62616e6e65722e77656270
+.. image:: https://docs.beagle.cc/_images/banner.webp
    :target: https://docs.beagle.cc
 
 Welcome to the **BeagleBoard.org GitHub** —  If you are looking for Beagle related software and hardware repos you've found the right place!
