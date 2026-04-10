@@ -27,6 +27,11 @@ BeagleBoard.org is an open-source, community-supported platform for building low
              <th>Family</th>
              <th>Variants</th>
            </tr>
+           <tr><td>BeagleConnect</td><td>
+             <a href="https://github.com/beagleboard/beagleconnect-zepto">Zepto</a>
+             <a href="https://github.com/beagleboard/beagleconnect-freedom">Freedom</a>
+           </td></tr>
+           <tr><td>BeagleBadge</td><td><a href="https://github.com/beagleboard/beaglebadge">BeagleBadge</a></td></tr>
            <tr><td>BeagleY</td><td><a href="https://github.com/beagleboard/beagley-ai">AI</a></td></tr>
            <tr><td>BeaglePlay</td><td><a href="https://github.com/beagleboard/beagleplay">BeaglePlay</a></td></tr>
            <tr><td>BeagleV</td><td>
@@ -48,9 +53,6 @@ BeagleBoard.org is an open-source, community-supported platform for building low
              <a href="https://github.com/beagleboard/beagleboard-x15">X15</a><br>
              <a href="https://github.com/beagleboard/beagleboard-xm">xM</a><br>
              <a href="https://github.com/beagleboard/beagleboard">BeagleBoard</a>
-           </td></tr>
-           <tr><td>BeagleConnect</td><td>
-             <a href="https://github.com/beagleboard/beagleconnect-freedom">Freedom</a>
            </td></tr>
          </table>
        </td>
